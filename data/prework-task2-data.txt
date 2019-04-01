@@ -1,0 +1,39 @@
+#Employees list. Structure:
+#<last_name>, <first_name>, <year_of_birth>, <email>, <phones>, <address>, <team>, <role>, <data>
+
+Trump, Donnald, 1920, dtrump@serv.hwltd.com, 050-123-4567, Greece;London;4330, qa, staff, 1000
+Bush, George W., 1935, gb@tech.hwltd.com, 7868765, Oz;Emerald;Yellow Brick;12, design, engineer, 3000;500
+May, Theresa, 1970, theresa70@opt.hwltd.com, +87-123-321-123, Israel;Jerusalem;Jaffa;432, app, sales, 400;0.05;500;300;400;1200;300
+Deer, John, 1973, jd@tech.hwltd.com, 022-444-555-33, Japan;Rome;St. Someone;2, app, engineer, 2300
+Mcgey, Bobby, 1966, bobmg@pacific.hwltd.com, 098-098098, France;Paris;the alley;333, cto, engineer, 1234;567
+Kramer, Cosmo, 1954, theneighbor@web.africa.mgmt.hwltd.com, +264-8866024, Germany;Berlin;9191, chip, sales, 1300;0.02;100;300;700;250;800;350
+McMay, Theresa, 1973, mtheresa70.opt.hwltd.com, +87-123-321-124, Israel;Gerusalem;Jaffa;43, app, sales, 400;0.05;500;300;400;1200;300
+McMcgey, Tobby, 1963, mbobmg@pacific.hwltd.com, 098-098098, France;Garis;the alley;335, cto, engineer, 1234;567
+Bushsky, Veorge W., 1985, gbs@tech.hwltd.com, +227868765, Kz;Emerald;Yellow Brict;12, design, engineer, 4000;300
+Maysky, Vheresa, 1980, theresa70s@opt.hwltd.com, +2287-123-321-123, Ksrael;Jerusalem, app, sales, 700;0.5;50;100;70;250
+McKramer, Tosmo, 1953, mtheneighbor@web.africa.mgmt.hwltd.com, +264-8866025, Germany;Gerlin;9191, chip, sales, 1300;0.02;100;300;700;250;800;350
+Mcgeysky, Vobby, 1986, bobmgs@pacific.hwltd.com, +22098-098098, Krance;Paris;the allet;333, cto, engineer, 6666;3333
+Kramersky, Vosmo, 1984, theneighbors@web.africa.mgmt.hwltd.com, +22264-8866024, Kermany;Berlit;9188, chip, sales, 2200;0.2;10;400;200;25;330
+McTrump, Tonnald, 1923, mdtrump@serv.hwltd.com, 050-123-4568, Greece;Gondon;4330, qa, staff, 1000
+Trumpxx, Donnaldyy, 1930, dtrumpy@serv.hwltd.com, 051-123-4567, Gryece;Loydon;4330, staff, staff, 1000
+Trumpsky, Vonnald, 1980, dtrumps@serv.hwltd.com, +22050-123-4567, Kreece;London;4330, qa, staff, 2000
+Bushxx, George Wyy., 1945, gby@tech.hwltd.com, 7878765, Ozy;Emyrald;Yellow Bryck;12, drivers, engineer, 3000;500
+Mayxx, Theresayy, 1980, theresa70y@opt.hwltd.com, +87-223-321-123, Isyael;Jeyusalem;Jayfa;432, app, sales, 400
+Deersky, Vohn, 1983, jds@tech.hwltd.com, -22022-444-555-33, Kapan;Rome;St. Someont;10, app, engineer, 1111
+Deerxx, Johnyy, 1983, jdy@tech.hwltd.com, 023-444-555-33, Jayan;Roye;St. Soyeone;2, app, engineer, 2300
+Kramerxx, Cosmoyy, 1964, theneighbory@web.africa.mgmt.hwltd.com, +26-8866024, Geymany;Beylin;9191, chip, sales, 1300;0.02;100;300;700;250;800;350
+McBush, Teorge W., 1933, mgb@tech.hwltd.com, 7868766, Oz;Gmerald;Yellow Brick;17, drivers, engineer, 3000;500
+Truqmp, Donqnald, 1927, qdtrump@serv.hwltd.com, 057-123-4567, Greece;London;4339, outcome, staff, 1000
+Busqh, Geoqrge W., 1937, qgb@tech.hwltd.com, 7878765, Oz;Emerald;Yellow Brick;129, qa, engineer, 4444;500
+McDeer, Tohn, 1973, mjd@tech.hwltd.com, 022-444-555-34, Japan;Gome;St. Someone;22, app, engineer, 2300
+Mayq, Theqresa, 1977, qtheresa70@opt.hwltd.com, +87-723-321-123, Israel;Jerusalem;Jaffa;4329, app, sales, 400;0.04;500;300;400;1200;300
+Mcgqey, Bobqby, 1967, qbobmg@pacific.hwltd.com, 097-098O98, France;Paris;the alley;3339, cto, engineer, 1234;567
+Kraqmer, Cosqmo, 1957, qtheneighbor@web.africa.mgmt.hwltd.com, +267-8866024, Germany;Berlin;91919, chip, sales, 1300;0.02;100;300;700;250;800;350
+Prumpsky, Ronnald, 1940, pdtrumps@serv.hwltd.com, +22050-123-4567, Kreece;London;4330, income, staff, 2000
+Pushsky, Reorge W., 1945, pgbs@tech.hwltd.com, +227868765, Kz;Emerald;Yellow Brict;12, design, engineer, 5555;300
+Mcgeyxx, Bobbyyy, 1976, bobmgy@pacific.whltd.com, 099-098098, Frynce;Payis;thy alley;333, poc, engineer, 1234;567
+Paysky, Rheresa, 1940, ptheresa70s@opt.hwltd.com, +2287-123-321-123, Ksrael;Jerusalem;Jaffa;432, poc, sales, 444;0.5;50;100;70;250
+Peersky, Rohn, 1943, pjds@tech.hwltd.com, +22022-444-555-33, Kapan;Rome;St. Someont;10, poc, engineer, 1111
+Deeqr, Johqn, 1977, qjd@tech.hwltd.com, 027-444-555-33, Japan;Rome;St. Someone;29, app, engineer, 2300
+Pcgeysky, Robby, 1946, pbobmgs@pacific.hwltd.org, +22098-098098, Krance;Paris;the allet;333, tech, engineer, 5432;3333
+Pramersky, Rosmo, 1944, ptheneighbors@web.africa.mgmt.hwltd.com, +22264-8866024, Kermany;Berlit;9188, chip, sales, 3423;0.7;10;400;200;25;330

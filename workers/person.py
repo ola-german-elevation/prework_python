@@ -29,9 +29,9 @@ class Person(object):
             self.__phones.append(Phone(phone))
 
         if len(address) == 3:
-            self.address = PobAddress(address)
+            self.address = PobAddress(*address)
         elif len(address) == 4:
-            self.address = StreetAddress(address)
+            self.address = StreetAddress(*address)
 
     @classmethod
     def add_id(cls):
@@ -79,7 +79,7 @@ class Address(object):
 
 class StreetAddress(Address):
     def __init__(self, country, city, street_name, house_number):
-        super.__init__(country, city)
+        super().__init__(country, city)
         self.street_name = street_name
         self.house_number = house_number
 
@@ -90,7 +90,7 @@ class StreetAddress(Address):
 
 class PobAddress(Address):
     def __init__(self, country, city, post_number):
-        super.__init__(country, city)
+        super().__init__(country, city)
         self.post_number = post_number
 
     @property
